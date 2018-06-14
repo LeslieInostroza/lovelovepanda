@@ -4,6 +4,10 @@
   padding-bottom: 2%;
 
 }
+
+body {
+  text-align: center;
+}
 .h1{
   color: white;
   text-align: right;
